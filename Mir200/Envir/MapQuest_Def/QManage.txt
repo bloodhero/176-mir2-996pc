@@ -1,0 +1,6 @@
+[@Login]
+#IF
+CHECKLEVELEX > 0
+#ACT
+#CALL [\ÓÎÏ·µÇÂ½\µÇÂ½½Å±¾.txt] @µÇÂ½ÉèÖÃ
+
