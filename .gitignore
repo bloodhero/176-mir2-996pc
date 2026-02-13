@@ -4,11 +4,12 @@
 /LogServer
 /SelGate
 /Mir200/GameGuard
+/RunGate
 **.exe
 **.dll
 **.map
 **.lic
 *log/
-/LoginSer*
+/LoginSrv*
 /Mir200/Envir/Market_Prices
 /Mir200/Envir/Market_Saved
